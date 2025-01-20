@@ -98,7 +98,7 @@ section p {
     text-align: center;
 }
 
-@media screen and (max-width: 875px) {
+@media screen and (max-width: 900px) {
     nav .hamb{
         display: block;
     }
@@ -296,7 +296,7 @@ section {
 
 #projet .section-container{
     display: flex;
-    height: 80vh;
+    height: 70vh;
 }
 #projet .project-content h2 {
     text-align: center;
